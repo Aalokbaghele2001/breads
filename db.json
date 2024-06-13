@@ -1,0 +1,258 @@
+{
+  "breads":[
+  {
+    "id": 1,
+    "dish": "Naan",
+    "image": "https://www.example.com/naan.jpg",
+    "price": 30,
+    "type": "Vegetarian",
+    "desc": "A leavened, oven-baked flatbread traditionally made in a tandoor, soft and fluffy.",
+    "rating": 4.5,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Taj Mahal Restaurant",
+      "address": "123 Taj Road, Delhi",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Authentic North Indian cuisine",
+      "rating": 4.5,
+      "about": "Taj Mahal Restaurant is known for its exquisite North Indian dishes, including freshly baked naans."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Roti",
+    "image": "https://www.example.com/roti.jpg",
+    "price": 15,
+    "type": "Vegetarian",
+    "desc": "A round, unleavened flatbread made from whole wheat flour, commonly enjoyed with curries.",
+    "rating": 4.3,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Punjabi Dhaba",
+      "address": "456 Dhaba Street, Amritsar",
+      "timing": "8:00 AM - 10:00 PM",
+      "offers": "Homestyle Punjabi cuisine",
+      "rating": 4.3,
+      "about": "Punjabi Dhaba is a popular eatery known for its authentic Punjabi food, including freshly made rotis."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Paratha",
+    "image": "https://www.example.com/paratha.jpg",
+    "price": 40,
+    "type": "Vegetarian",
+    "desc": "A layered, flaky flatbread made from whole wheat flour, often stuffed with vegetables or paneer.",
+    "rating": 4.6,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Paratha Junction",
+      "address": "789 Paratha Lane, Chandigarh",
+      "timing": "7:30 AM - 11:00 PM",
+      "offers": "Variety of stuffed parathas",
+      "rating": 4.6,
+      "about": "Paratha Junction specializes in a wide range of stuffed parathas and North Indian delicacies."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Bhatura",
+    "image": "https://www.example.com/bhatura.jpg",
+    "price": 35,
+    "type": "Vegetarian",
+    "desc": "A deep-fried bread made from maida flour, light and fluffy, often served with chole (chickpea curry).",
+    "rating": 4.4,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Chole Bhature Corner",
+      "address": "890 Bhatura Road, Delhi",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "Authentic chole bhature and North Indian snacks",
+      "rating": 4.4,
+      "about": "Chole Bhature Corner is famous for its delicious chole bhature and other North Indian street food."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Puri",
+    "image": "https://www.example.com/puri.jpg",
+    "price": 25,
+    "type": "Vegetarian",
+    "desc": "A deep-fried bread made from unleavened whole wheat flour dough, puffing up when cooked.",
+    "rating": 4.2,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Mithaiwala Sweets",
+      "address": "345 Puri Lane, Mumbai",
+      "timing": "6:00 AM - 10:00 PM",
+      "offers": "Freshly made puris and Indian sweets",
+      "rating": 4.2,
+      "about": "Mithaiwala Sweets is renowned for its wide variety of Indian sweets and freshly prepared puris."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Kulcha",
+    "image": "https://www.example.com/kulcha.jpg",
+    "price": 45,
+    "type": "Vegetarian",
+    "desc": "A type of leavened flatbread, similar to naan, often stuffed with spiced potatoes or paneer.",
+    "rating": 4.5,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Amritsari Kulcha House",
+      "address": "567 Kulcha Road, Amritsar",
+      "timing": "9:00 AM - 11:00 PM",
+      "offers": "Authentic Amritsari kulchas and Punjabi cuisine",
+      "rating": 4.5,
+      "about": "Amritsari Kulcha House is famous for its authentic Amritsari kulchas and traditional Punjabi dishes."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Missi Roti",
+    "image": "https://www.example.com/missi_roti.jpg",
+    "price": 30,
+    "type": "Vegetarian",
+    "desc": "A Punjabi flatbread made from a mixture of wheat flour and gram flour (besan), flavored with spices.",
+    "rating": 4.3,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Punjabi Rasoi",
+      "address": "234 Missi Road, Ludhiana",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Authentic Punjabi cuisine",
+      "rating": 4.3,
+      "about": "Punjabi Rasoi offers a variety of authentic Punjabi dishes, including flavorful missi roti."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Tandoori Roti",
+    "image": "https://www.example.com/tandoori_roti.jpg",
+    "price": 20,
+    "type": "Vegetarian",
+    "desc": "A type of Indian unleavened flatbread baked in a tandoor, with a slightly charred exterior and soft interior.",
+    "rating": 4.4,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Tandoori Nights",
+      "address": "890 Tandoori Lane, Jaipur",
+      "timing": "7:30 AM - 10:00 PM",
+      "offers": "Tandoori specialties and North Indian cuisine",
+      "rating": 4.4,
+      "about": "Tandoori Nights is known for its tandoori dishes and freshly baked tandoori rotis."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Laccha Paratha",
+    "image": "https://www.example.com/laccha_paratha.jpg",
+    "price": 25,
+    "type": "Vegetarian",
+    "desc": "A flaky, layered flatbread made from whole wheat flour, often enjoyed with curries or as a snack.",
+    "rating": 4.5,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Laccha Delights",
+      "address": "345 Paratha Road, Lucknow",
+      "timing": "7:00 AM - 10:00 PM",
+      "offers": "Flaky, layered parathas",
+      "rating": 4.5,
+      "about": "Laccha Delights is known for its flaky, layered parathas, served with a variety of curries."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Tandoori Naan",
+    "image": "https://www.example.com/tandoori_naans.jpg",
+    "price": 35,
+    "type": "Vegetarian",
+    "desc": "A popular North Indian bread, soft and fluffy, baked in a traditional tandoor.",
+    "rating": 4.7,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Tandoor Delight",
+      "address": "567 Tandoor Lane, Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Tandoori breads and kebabs",
+      "rating": 4.7,
+      "about": "Tandoor Delight offers a variety of tandoori breads and succulent kebabs."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Missi Paratha",
+    "image": "https://www.example.com/missi_paratha.jpg",
+    "price": 50,
+    "type": "Vegetarian",
+    "desc": "A traditional flatbread made from whole wheat flour and gram flour, seasoned with spices and herbs.",
+    "rating": 4.4,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Punjabi Tadka",
+      "address": "123 Missi Paratha Lane, Amritsar",
+      "timing": "8:00 AM - 10:00 PM",
+      "offers": "Authentic Punjabi cuisine",
+      "rating": 4.4,
+      "about": "Punjabi Tadka is known for its authentic Punjabi dishes, including delicious missi parathas."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Appam",
+    "image": "https://www.example.com/appam.jpg",
+    "price": 60,
+    "type": "Vegetarian",
+    "desc": "A soft, fluffy pancake made from fermented rice batter and coconut milk, popular in South India.",
+    "rating": 4.6,
+    "category": "Breads",
+    "restaurant": {
+      "name": "South Indian Delights",
+      "address": "456 Appam Road, Chennai",
+      "timing": "7:30 AM - 11:00 PM",
+      "offers": "Authentic South Indian cuisine",
+      "rating": 4.6,
+      "about": "South Indian Delights offers a variety of authentic South Indian dishes, including freshly made appams."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Pesarattu",
+    "image": "https://www.example.com/pesarattu.jpg",
+    "price": 55,
+    "type": "Vegetarian",
+    "desc": "A savory crepe made from green gram (moong dal) and rice, often served with chutney.",
+    "rating": 4.7,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Andhra Spice House",
+      "address": "789 Pesarattu Lane, Hyderabad",
+      "timing": "8:00 AM - 10:00 PM",
+      "offers": "Authentic Andhra cuisine",
+      "rating": 4.7,
+      "about": "Andhra Spice House is renowned for its authentic Andhra dishes, including flavorful pesarattu."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Thepla",
+    "image": "https://www.example.com/thepla.jpg",
+    "price": 40,
+    "type": "Vegetarian",
+    "desc": "A Gujarati flatbread made from whole wheat flour, fenugreek leaves, and spices, often served with yogurt.",
+    "rating": 4.5,
+    "category": "Breads",
+    "restaurant": {
+      "name": "Gujarati Rasoi",
+      "address": "890 Thepla Road, Ahmedabad",
+      "timing": "7:30 AM - 9:00 PM",
+      "offers": "Authentic Gujarati cuisine",
+      "rating": 4.5,
+      "about": "Gujarati Rasoi offers a variety of authentic Gujarati dishes, including freshly made theplas."
+    }
+  }
+
+
+  ]
+}
